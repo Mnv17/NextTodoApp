@@ -1,3 +1,5 @@
+## The project is not Deploying that's why i have given the instructions to clone the repo.
+
 # Demo Todo App with Next.js 13, Server Actions, and Drizzle ORM
 
 Explore the capabilities of Next.js 13 through our demo repository showcasing a
